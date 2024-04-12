@@ -1,0 +1,23 @@
+
+.Alert {
+  border: 3px ;
+  border-color: black;
+  padding: 5px;
+  margin: 5px;
+}
+
+.success {
+  border: 3px ;
+  border-color: black;
+  margin: 5px;
+  background-color: rgba(91, 171, 91, 0.655);
+}
+
+.failure {
+  border: 10px ;
+  border-radius: 10px;
+  border-color: black;
+  padding: 5px;
+  margin: 5px;
+  background-color: rgba(177, 88, 88, 0.653);
+}
